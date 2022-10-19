@@ -1,0 +1,8 @@
+/Users/hexh/Desktop/helei2019/Demo project/obj/Debug/net6.0/Demo project.csproj.AssemblyReference.cache
+/Users/hexh/Desktop/helei2019/Demo project/obj/Debug/net6.0/Demo_project.ALNSTPF_project.GeneralTSALNS.Properties.Resources.resources
+/Users/hexh/Desktop/helei2019/Demo project/obj/Debug/net6.0/GeneralTSALNS.RunALNSTPFAlgorithm.resources
+/Users/hexh/Desktop/helei2019/Demo project/obj/Debug/net6.0/Demo project.csproj.GenerateResource.cache
+/Users/hexh/Desktop/helei2019/Demo project/obj/Debug/net6.0/Demo project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hexh/Desktop/helei2019/Demo project/obj/Debug/net6.0/Demo project.AssemblyInfoInputs.cache
+/Users/hexh/Desktop/helei2019/Demo project/obj/Debug/net6.0/Demo project.AssemblyInfo.cs
+/Users/hexh/Desktop/helei2019/Demo project/obj/Debug/net6.0/Demo project.csproj.CoreCompileInputs.cache

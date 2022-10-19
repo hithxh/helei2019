@@ -1,0 +1,164 @@
+D:/我的程序/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe.config
+D:/我的程序/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.csprojResolveAssemblyReference.cache
+D:/我的程序/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.Form1.resources
+D:/我的程序/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.Properties.Resources.resources
+D:/我的程序/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.csproj.GenerateResource.Cache
+D:/我的程序/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe
+D:/我的程序/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/bin/Debug/GeneralTSALNS.pdb
+D:/我的程序/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.exe
+D:/我的程序/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.pdb
+D:/aaai/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe.config
+D:/aaai/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.exe
+D:/aaai/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.pdb
+D:/aaai/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe
+D:/aaai/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/bin/Debug/GeneralTSALNS.pdb
+D:/aaai/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.csprojResolveAssemblyReference.cache
+D:/aaai/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.Form1.resources
+D:/aaai/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.Properties.Resources.resources
+D:/aaai/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.csproj.GenerateResource.Cache
+D:/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe.config
+D:/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.exe
+D:/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.pdb
+D:/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe
+D:/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/bin/Debug/GeneralTSALNS.pdb
+D:/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.Form1.resources
+D:/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.Properties.Resources.resources
+D:/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.csproj.GenerateResource.Cache
+D:/qian/aaai/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe.config
+D:/qian/aaai/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.exe
+D:/qian/aaai/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe
+D:/qian/aaai/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/bin/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.csprojResolveAssemblyReference.cache
+D:/qian/aaai/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.Form1.resources
+D:/qian/aaai/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.Properties.Resources.resources
+D:/qian/aaai/GeneralTSALNS/GeneralTSALNS/GeneralTSALNS/obj/Debug/GeneralTSALNS.csproj.GenerateResource.Cache
+D:/qian/aaai/GeneralTSALNS/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe.config
+D:/qian/aaai/GeneralTSALNS/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.exe
+D:/qian/aaai/GeneralTSALNS/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/GeneralTSALNS/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe
+D:/qian/aaai/GeneralTSALNS/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/GeneralTSALNS/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.Form1.resources
+D:/qian/aaai/GeneralTSALNS/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.Properties.Resources.resources
+D:/qian/aaai/GeneralTSALNS/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csproj.GenerateResource.Cache
+D:/qian/aaai/GeneralTSALNS/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csprojResolveAssemblyReference.cache
+D:/qian/aaai/Journal version/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe.config
+D:/qian/aaai/Journal version/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.exe
+D:/qian/aaai/Journal version/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/Journal version/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe
+D:/qian/aaai/Journal version/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/Journal version/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csprojResolveAssemblyReference.cache
+D:/qian/aaai/Journal version/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.Form1.resources
+D:/qian/aaai/Journal version/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.Properties.Resources.resources
+D:/qian/aaai/Journal version/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csproj.GenerateResource.Cache
+D:/qian/aaai/Journal version/Factor analysis/no psd/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe.config
+D:/qian/aaai/Journal version/Factor analysis/no psd/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.exe
+D:/qian/aaai/Journal version/Factor analysis/no psd/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/Journal version/Factor analysis/no psd/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe
+D:/qian/aaai/Journal version/Factor analysis/no psd/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/Journal version/Factor analysis/no psd/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csprojResolveAssemblyReference.cache
+D:/qian/aaai/Journal version/Factor analysis/no psd/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.Form1.resources
+D:/qian/aaai/Journal version/Factor analysis/no psd/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.Properties.Resources.resources
+D:/qian/aaai/Journal version/Factor analysis/no psd/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csproj.GenerateResource.Cache
+D:/qian/aaai/Journal version/Factor analysis/Full ALNS/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe.config
+D:/qian/aaai/Journal version/Factor analysis/Full ALNS/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.exe
+D:/qian/aaai/Journal version/Factor analysis/Full ALNS/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/Journal version/Factor analysis/Full ALNS/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe
+D:/qian/aaai/Journal version/Factor analysis/Full ALNS/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/Journal version/Factor analysis/Full ALNS/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csprojResolveAssemblyReference.cache
+D:/qian/aaai/Journal version/Factor analysis/Full ALNS/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.Form1.resources
+D:/qian/aaai/Journal version/Factor analysis/Full ALNS/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.Properties.Resources.resources
+D:/qian/aaai/Journal version/Factor analysis/Full ALNS/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csproj.GenerateResource.Cache
+D:/qian/aaai/Journal version/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.CPO.resources
+D:/qian/aaai/Journal version/Factor analysis/ALNS Liuinsertion/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe.config
+D:/qian/aaai/Journal version/Factor analysis/ALNS Liuinsertion/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.exe
+D:/qian/aaai/Journal version/Factor analysis/ALNS Liuinsertion/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/Journal version/Factor analysis/ALNS Liuinsertion/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csprojResolveAssemblyReference.cache
+D:/qian/aaai/Journal version/Factor analysis/ALNS Liuinsertion/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.CPO.resources
+D:/qian/aaai/Journal version/Factor analysis/ALNS Liuinsertion/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.Form1.resources
+D:/qian/aaai/Journal version/Factor analysis/ALNS Liuinsertion/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.Properties.Resources.resources
+D:/qian/aaai/Journal version/Factor analysis/ALNS Liuinsertion/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csproj.GenerateResource.Cache
+D:/qian/aaai/Journal version/Factor analysis/ALNS Liuinsertion/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe
+D:/qian/aaai/Journal version/Factor analysis/ALNS Liuinsertion/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/Journal version/Factor analysis/ALNSPF/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe.config
+D:/qian/aaai/Journal version/Factor analysis/ALNSPF/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.exe
+D:/qian/aaai/Journal version/Factor analysis/ALNSPF/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/Journal version/Factor analysis/ALNSPF/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe
+D:/qian/aaai/Journal version/Factor analysis/ALNSPF/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/Journal version/Factor analysis/ALNSPF/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csprojResolveAssemblyReference.cache
+D:/qian/aaai/Journal version/Factor analysis/ALNSPF/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.CPO.resources
+D:/qian/aaai/Journal version/Factor analysis/ALNSPF/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.Form1.resources
+D:/qian/aaai/Journal version/Factor analysis/ALNSPF/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.Properties.Resources.resources
+D:/qian/aaai/Journal version/Factor analysis/ALNSPF/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csproj.GenerateResource.Cache
+D:/qian/aaai/Journal version/Factor analysis/ALNSTF/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe.config
+D:/qian/aaai/Journal version/Factor analysis/ALNSTF/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.exe
+D:/qian/aaai/Journal version/Factor analysis/ALNSTF/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/Journal version/Factor analysis/ALNSTF/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe
+D:/qian/aaai/Journal version/Factor analysis/ALNSTF/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/Journal version/Factor analysis/ALNSTF/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csprojResolveAssemblyReference.cache
+D:/qian/aaai/Journal version/Factor analysis/ALNSTF/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.CPO.resources
+D:/qian/aaai/Journal version/Factor analysis/ALNSTF/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.Form1.resources
+D:/qian/aaai/Journal version/Factor analysis/ALNSTF/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.Properties.Resources.resources
+D:/qian/aaai/Journal version/Factor analysis/ALNSTF/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csproj.GenerateResource.Cache
+D:/qian/aaai/Journal version/Factor analysis/ALNSTP noIPO/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe.config
+D:/qian/aaai/Journal version/Factor analysis/ALNSTP noIPO/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.exe
+D:/qian/aaai/Journal version/Factor analysis/ALNSTP noIPO/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/Journal version/Factor analysis/ALNSTP noIPO/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe
+D:/qian/aaai/Journal version/Factor analysis/ALNSTP noIPO/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/Journal version/Factor analysis/ALNSTP noIPO/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csprojResolveAssemblyReference.cache
+D:/qian/aaai/Journal version/Factor analysis/ALNSTP noIPO/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.CPO.resources
+D:/qian/aaai/Journal version/Factor analysis/ALNSTP noIPO/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.Form1.resources
+D:/qian/aaai/Journal version/Factor analysis/ALNSTP noIPO/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.Properties.Resources.resources
+D:/qian/aaai/Journal version/Factor analysis/ALNSTP noIPO/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csproj.GenerateResource.Cache
+D:/qian/aaai/Journal version/Factor analysis/ALNSTPFnorandom/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe.config
+D:/qian/aaai/Journal version/Factor analysis/ALNSTPFnorandom/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.exe
+D:/qian/aaai/Journal version/Factor analysis/ALNSTPFnorandom/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/Journal version/Factor analysis/ALNSTPFnorandom/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe
+D:/qian/aaai/Journal version/Factor analysis/ALNSTPFnorandom/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/Journal version/Factor analysis/ALNSTPFnorandom/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csprojResolveAssemblyReference.cache
+D:/qian/aaai/Journal version/Factor analysis/ALNSTPFnorandom/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.CPO.resources
+D:/qian/aaai/Journal version/Factor analysis/ALNSTPFnorandom/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.Form1.resources
+D:/qian/aaai/Journal version/Factor analysis/ALNSTPFnorandom/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.Properties.Resources.resources
+D:/qian/aaai/Journal version/Factor analysis/ALNSTPFnorandom/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csproj.GenerateResource.Cache
+D:/qian/aaai/Journal version/Factor analysis/ALNS-TS/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe.config
+D:/qian/aaai/Journal version/Factor analysis/ALNS-TS/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.exe
+D:/qian/aaai/Journal version/Factor analysis/ALNS-TS/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/Journal version/Factor analysis/ALNS-TS/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe
+D:/qian/aaai/Journal version/Factor analysis/ALNS-TS/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.pdb
+D:/qian/aaai/Journal version/Factor analysis/ALNS-TS/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csprojResolveAssemblyReference.cache
+D:/qian/aaai/Journal version/Factor analysis/ALNS-TS/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.CPO.resources
+D:/qian/aaai/Journal version/Factor analysis/ALNS-TS/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.Form1.resources
+D:/qian/aaai/Journal version/Factor analysis/ALNS-TS/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.Properties.Resources.resources
+D:/qian/aaai/Journal version/Factor analysis/ALNS-TS/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csproj.GenerateResource.Cache
+D:/qian/aaai/Journal version/Factor analysis/Full ALNS/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.CPO.resources
+D:/Publish repository/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe.config
+D:/Publish repository/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.exe
+D:/Publish repository/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.pdb
+D:/Publish repository/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csprojResolveAssemblyReference.cache
+D:/Publish repository/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.Properties.Resources.resources
+D:/Publish repository/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.csproj.GenerateResource.Cache
+D:/Publish repository/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe
+D:/Publish repository/GeneralTSALNS-currentlastest/GeneralTSALNS/bin/Debug/GeneralTSALNS.pdb
+D:/Publish repository/GeneralTSALNS-currentlastest/GeneralTSALNS/obj/Debug/GeneralTSALNS.RunALNSTPFAlgorithm.resources
+D:/Publish repository/Demo project/ALNSTPF project/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe.config
+D:/Publish repository/Demo project/ALNSTPF project/GeneralTSALNS/obj/Debug/GeneralTSALNS.exe
+D:/Publish repository/Demo project/ALNSTPF project/GeneralTSALNS/obj/Debug/GeneralTSALNS.pdb
+D:/Publish repository/Demo project/ALNSTPF project/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe
+D:/Publish repository/Demo project/ALNSTPF project/GeneralTSALNS/bin/Debug/GeneralTSALNS.pdb
+D:/Publish repository/Demo project/ALNSTPF project/GeneralTSALNS/obj/Debug/GeneralTSALNS.RunALNSTPFAlgorithm.resources
+D:/Publish repository/Demo project/ALNSTPF project/GeneralTSALNS/obj/Debug/GeneralTSALNS.Properties.Resources.resources
+D:/Publish repository/Demo project/ALNSTPF project/GeneralTSALNS/obj/Debug/GeneralTSALNS.csproj.GenerateResource.Cache
+D:/Publish repository/Demo project/ALNSTPF project/GeneralTSALNS/obj/Debug/GeneralTSALNS.csprojAssemblyReference.cache
+D:/Publish repository/Demo project/ALNSTPF project/GeneralTSALNS/obj/Debug/GeneralTSALNS.csproj.CoreCompileInputs.cache
+D:/我的程序/JIM repository publish/Demo project/ALNSTPF project/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe.config
+D:/我的程序/JIM repository publish/Demo project/ALNSTPF project/GeneralTSALNS/bin/Debug/GeneralTSALNS.exe
+D:/我的程序/JIM repository publish/Demo project/ALNSTPF project/GeneralTSALNS/bin/Debug/GeneralTSALNS.pdb
+D:/我的程序/JIM repository publish/Demo project/ALNSTPF project/GeneralTSALNS/obj/Debug/GeneralTSALNS.csprojAssemblyReference.cache
+D:/我的程序/JIM repository publish/Demo project/ALNSTPF project/GeneralTSALNS/obj/Debug/GeneralTSALNS.RunALNSTPFAlgorithm.resources
+D:/我的程序/JIM repository publish/Demo project/ALNSTPF project/GeneralTSALNS/obj/Debug/GeneralTSALNS.Properties.Resources.resources
+D:/我的程序/JIM repository publish/Demo project/ALNSTPF project/GeneralTSALNS/obj/Debug/GeneralTSALNS.csproj.GenerateResource.cache
+D:/我的程序/JIM repository publish/Demo project/ALNSTPF project/GeneralTSALNS/obj/Debug/GeneralTSALNS.csproj.CoreCompileInputs.cache
+D:/我的程序/JIM repository publish/Demo project/ALNSTPF project/GeneralTSALNS/obj/Debug/GeneralTSALNS.exe
+D:/我的程序/JIM repository publish/Demo project/ALNSTPF project/GeneralTSALNS/obj/Debug/GeneralTSALNS.pdb
+/Users/hexh/Desktop/helei2019/Demo project/ALNSTPF project/GeneralTSALNS/obj/Debug/GeneralTSALNS.exe
+/Users/hexh/Desktop/helei2019/Demo project/ALNSTPF project/GeneralTSALNS/obj/Debug/GeneralTSALNS.pdb
